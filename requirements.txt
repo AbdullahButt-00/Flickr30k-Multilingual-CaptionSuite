@@ -1,0 +1,9 @@
+transformers
+sentence-transformers
+scikit-learn
+nltk
+python-Levenshtein
+termcolor
+torch
+tqdm
+pandas
